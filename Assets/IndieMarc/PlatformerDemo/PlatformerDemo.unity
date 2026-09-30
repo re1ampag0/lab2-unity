@@ -7327,6 +7327,11 @@ PrefabInstance:
       propertyPath: jump_strength
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 114086076410299948, guid: 488fef3a70db04a7d975594f7ab7ce56,
+        type: 3}
+      propertyPath: fall_damage_percent
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 212331576666244696, guid: 488fef3a70db04a7d975594f7ab7ce56,
         type: 3}
       propertyPath: m_Color.g

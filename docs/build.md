@@ -5,8 +5,7 @@
 **Настройки сборки (Build Settings)**
 
 * Платформа: Windows (Intel 64-bit)
-* Сцена в сборке: IndieMarc/PlatformerDemo/PlatformerDemo
-* Сцена TopDownDemo тоже осталась в списке, но помечена как Deleted, потому что её папку мы исключили через .gitignore
+* Сцена в сборке: IndieMarc/PlatformerDemo/PlatformerDemo (сцену TopDownDemo убрали из списка, потому что из-за неё падала сборка GitHub Actions)
 
 Доступные платформы: только Windows. Остальные (macOS, Linux, Android, iOS, Web и другие) есть в списке, но неактивны, потому что их модули не установлены.
 
